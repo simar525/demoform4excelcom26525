@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.sharefable.com/live/demo/twidget-api-client-sxtigftjq2hpol6s/$1"
+ }
+  ]
+}
